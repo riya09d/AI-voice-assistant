@@ -8,13 +8,7 @@ This is a simple voice assistant project created using Python. The voice assista
 - Retrieve information from Wikipedia
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/voice-assistant.git
-   cd voice-assistant
-   ```
-
-2. Install the required Python packages:
+1. Install the required Python packages:
    ```bash
    pip install pyttsx3 speechrecognition wikipedia
    ```
