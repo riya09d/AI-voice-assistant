@@ -6,6 +6,7 @@ This is a simple voice assistant project created using Python. The voice assista
 ## Features
 - Display current time
 - Retrieve information from Wikipedia
+- Speak - what you say
 
 ## Installation
 1. Install the required Python packages:
